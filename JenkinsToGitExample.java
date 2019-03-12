@@ -4,5 +4,6 @@ public class JenkinsToGitExample
 	{
 		System.out.println("Hellow World");
 		System.out.println("New changes");
+		System.out.println("New changes1");
 	}
 }
